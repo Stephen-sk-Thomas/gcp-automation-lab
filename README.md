@@ -1,6 +1,5 @@
 # gcp-automation-lab
-Python batch job that updates Gmail signatures from user data (name/department/phone), with dry-run, retries, and a run report.
-
+is a small Python script that updates Gmail email signatures in bulk using a list of users (name, department, phone). 
 ## Run
 Plan (dry-run):
 
